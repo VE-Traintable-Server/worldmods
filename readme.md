@@ -1,4 +1,4 @@
-Mod of submodules of mods used on VE-TTurvial
+Mod of submodules of mods used on VE-Traintable
 
 Note: It is preferable to *not* make updates directly on the VE-Traintable server, and instead only
 pull in updates made elsewhere. Emergencies happen though, and cleaning things up isn't too hard.
