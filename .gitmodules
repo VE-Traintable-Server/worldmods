@@ -1,0 +1,96 @@
+[submodule "advtrains_810"]
+	path = advtrains_810
+	url = git@github.com:VE-Traintable-Server/advtrains_810.git
+[submodule "angledwalls"]
+	path = angledwalls
+	url = https://github.com/TumeniNodes/angledwalls
+[submodule "angledstairs"]
+	path = angledstairs
+	url = https://github.com/TumeniNodes/angledstairs
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas/
+[submodule "areasprotector"]
+	path = areasprotector
+	url = https://cheapiesystems.com/git/areasprotector/
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike/
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger
+[submodule "c_doors"]
+	path = c_doors
+	url = https://github.com/TumeniNodes/c_doors
+[submodule "celevator"]
+	path = celevator
+	url = https://cheapiesystems.com/git/celevator/
+[submodule "mod-cleaner"]
+	path = mod-cleaner
+	url = https://codeberg.org/AntumLuanti/mod-cleaner
+[submodule "digistuff"]
+	path = digistuff
+	url = https://github.com/mt-mods/digistuff/
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/mt-mods/digiterms
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/tigris-mt/elevator
+[submodule "factory_bridges"]
+	path = factory_bridges
+	url = https://github.com/mt-mods/factory_bridges
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/mt-mods/display_modpack
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
+[submodule "icemachine"]
+	path = icemachine
+	url = https://cheapiesystems.com/git/icemachine/
+[submodule "illumination"]
+	path = illumination
+	url = https://github.com/mt-mods/illumination
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/minetest-mods/inspector
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc.git
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "motorboat"]
+	path = motorboat
+	url = https://github.com/APercy/motorboat
+[submodule "newplayer"]
+	path = newplayer
+	url = https://cheapiesystems.com/git/newplayer
+[submodule "creativesettings"]
+	path = creativesettings
+	url = https://cheapiesystems.com/git/creativesettings
+[submodule "daynightratio"]
+	path = daynightratio
+	url = https://cheapiesystems.com/git/daynightratio
+[submodule "elevatorparts"]
+	path = elevatorparts
+	url = https://cheapiesystems.com/git/elevatorparts
+[submodule "firealarm"]
+	path = firealarm
+	url = https://cheapiesystems.com/git/firealarm
+[submodule "handdryer"]
+	path = handdryer
+	url = https://cheapiesystems.com/git/handdryer
+[submodule "ltc4000e"]
+	path = ltc4000e
+	url = https://cheapiesystems.com/git/ltc4000e
+[submodule "uvents"]
+	path = uvents
+	url = https://github.com/LminusSucksAtCoding/uvents
