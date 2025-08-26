@@ -1,0 +1,20 @@
+# textdomain: trainblocks
+
+### init.lua ###
+Subway block=地鐵方塊
+S-Bahn block=城鐵方塊
+Line sign @1=路線指示牌 @1
+Platform sign @1=月臺指示牌 @1
+Subway Sign (Left)=地鐵指示牌（左）
+Subway Sign (Right)=地鐵指示牌（右）
+S-Bahn Sign (Left)=城鐵指示牌（左）
+S-Bahn Sign (Right)=城鐵指示牌（右）
+Station Sign (Left)=車站指示牌（左）
+Station Sign (Right)=車站指示牌（右）
+Station Block=車站方塊
+Mountain Railway Block=山區鐵路方塊
+Modern Station Sign (Left)=現代車站指示牌（左）
+Modern Station Sign (Right)=現代車站指示牌（右）
+Modern Station Block=現代車站方塊
+No Pedestrians Sign=禁止行人標誌
+No Pedestrians Sign (German)=禁止行人標誌（德國風格）

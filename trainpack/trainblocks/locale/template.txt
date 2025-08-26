@@ -1,0 +1,20 @@
+# textdomain: trainblocks
+
+### init.lua ###
+Subway block=
+S-Bahn block=
+Line sign @1=
+Platform sign @1=
+Subway Sign (Left)=
+Subway Sign (Right)=
+S-Bahn Sign (Left)=
+S-Bahn Sign (Right)=
+Station Sign (Left)=
+Station Sign (Right)=
+Station Block=
+Mountain Railway Block=
+Modern Station Sign (Left)=
+Modern Station Sign (Right)=
+Modern Station Block=
+No Pedestrians Sign=
+No Pedestrians Sign (German)=

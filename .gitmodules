@@ -1,6 +1,6 @@
 [submodule "advtrains_810"]
 	path = advtrains_810
-	url = git@github.com:VE-Traintable-Server/advtrains_810.git
+	url = https://github.com/VE-Traintable-Server/advtrains_810
 [submodule "angledwalls"]
 	path = angledwalls
 	url = https://github.com/TumeniNodes/angledwalls
@@ -25,8 +25,8 @@
 [submodule "celevator"]
 	path = celevator
 	url = https://cheapiesystems.com/git/celevator/
-[submodule "mod-cleaner"]
-	path = mod-cleaner
+[submodule "mod_cleaner"]
+	path = mod_cleaner
 	url = https://codeberg.org/AntumLuanti/mod-cleaner
 [submodule "digistuff"]
 	path = digistuff
@@ -94,3 +94,180 @@
 [submodule "uvents"]
 	path = uvents
 	url = https://github.com/LminusSucksAtCoding/uvents
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/minetest-mods/wield3d
+[submodule "bucket_privs"]
+	path = bucket_privs
+	url = https://github.com/ChaosWormz/bucket_privs
+[submodule "names_per_ip"]
+	path = names_per_ip
+	url = https://github.com/SmallJoker/names_per_ip
+[submodule "PCPack1"]
+	path = PCPack1
+	url = https://github.com/Gerold55/PCPack1.git
+[submodule "lib_mount"]
+	path = lib_mount
+	url = https://github.com/blert2112/lib_mount
+[submodule "tunnelmaker"]
+	path = tunnelmaker
+	url = https://github.com/kestral246/tunnelmaker
+[submodule "fsc"]
+	path = fsc
+	url = https://github.com/sofar/fsc.git
+[submodule "digiline_routing"]
+	path = digiline_routing
+	url = https://github.com/numberZero/digiline_routing
+[submodule "planepack/airutils"]
+	path = planepack/airutils
+	url = https://github.com/APercy/airutils.git
+[submodule "planepack/ap_airship"]
+	path = planepack/ap_airship
+	url = https://github.com/APercy/ap_airship
+[submodule "planepack/automobiles_pck"]
+	path = planepack/automobiles_pck
+	url = https://github.com/APercy/automobiles_pck
+[submodule "planepack/demoiselle"]
+	path = planepack/demoiselle
+	url = https://github.com/APercy/demoiselle
+[submodule "planepack/fishing_boat"]
+	path = planepack/fishing_boat
+	url = https://github.com/APercy/fishing_boat
+[submodule "planepack/helicopter"]
+	path = planepack/helicopter
+	url = https://github.com/APercy/helicopter
+[submodule "planepack/hidroplane"]
+	path = planepack/hidroplane
+	url = https://github.com/APercy/hidroplane
+[submodule "planepack/ju52"]
+	path = planepack/ju52
+	url = https://github.com/APercy/ju52
+[submodule "planepack/minetest_biofuel"]
+	path = planepack/minetest_biofuel
+	url = https://github.com/APercy/minetest_biofuel
+[submodule "planepack/steampunk_blimp"]
+	path = planepack/steampunk_blimp
+	url = https://github.com/APercy/steampunk_blimp
+[submodule "planepack/supercub"]
+	path = planepack/supercub
+	url = https://github.com/APercy/supercub
+[submodule "planepack/pa28"]
+	path = planepack/pa28
+	url = https://github.com/APercy/pa28
+[submodule "planepack/mobkit"]
+	path = planepack/mobkit
+	url = https://github.com/TheTermos/mobkit.git
+[submodule "trainpack/advtrains_subway_ny"]
+	path = trainpack/advtrains_subway_ny
+	url = https://notabug.org/advtrains_supplemental/advtrains_subway_ny.git
+[submodule "trainpack/classic_coaches"]
+	path = trainpack/classic_coaches
+	url = https://github.com/Marnack/classic_coaches.git
+[submodule "trainpack/technictrain"]
+	path = trainpack/technictrain
+	url = https://git.bananach.space/technictrain.git
+[submodule "trainpack/minetest_tieless_tracks"]
+	path = trainpack/minetest_tieless_tracks
+	url = https://github.com/SamMatzko/minetest_tieless_tracks.git
+[submodule "trainpack/train_gravels"]
+	path = trainpack/train_gravels
+	url = https://github.com/C-C-Minetest-Server/train_gravels.git
+[submodule "trainpack/dlxtrains_modpack"]
+	path = trainpack/dlxtrains_modpack
+	url = https://github.com/Marnack/dlxtrains_modpack
+[submodule "trainpack/trainblocks"]
+	path = trainpack/trainblocks
+	url = https://github.com/C-C-Minetest-Server/trainblocks
+[submodule "laptop"]
+	path = laptop
+	url = https://github.com/Gerold55/laptop.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "signs_api"]
+	path = signs_api
+	url = https://github.com/minetest-mods/signs_api
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
+[submodule "playersettings"]
+	path = playersettings
+	url = https://cheapiesystems.com/git/playersettings
+[submodule "mesecons_display"]
+	path = mesecons_display
+	url = https://cheapiesystems.com/git/mesecons_display/
+[submodule "trainpack/tfl_s7_stock_modpack"]
+	path = trainpack/tfl_s7_stock_modpack
+	url = https://codeberg.org/advtrains_supplemental/tfl_s7_stock_modpack
+[submodule "trainpack/moretrains"]
+	path = trainpack/moretrains
+	url = https://git.bananach.space/moretrains.git/
+[submodule "trainpack/mese_trains"]
+	path = trainpack/mese_trains
+	url = https://gitlab.com/xenonca/mese_trains
+[submodule "trainpack/areas_interlocking_patch"]
+	path = trainpack/areas_interlocking_patch
+	url = https://github.com/wsor4035/areas_interlocking_patch
+[submodule "trainpack/advtrains_moreslopes"]
+	path = trainpack/advtrains_moreslopes
+	url = https://codeberg.org/Nazalassa/advtrains_moreslopes.git
+[submodule "trainpack/luanti-subways"]
+	path = trainpack/luanti-subways
+	url = https://codeberg.org/SamMatzko/luanti-subways
+[submodule "trainpack/advtrains_doors"]
+	path = trainpack/advtrains_doors
+	url = https://github.com/C-C-Minetest-Server/advtrains_doors
+[submodule "logging"]
+	path = logging
+	url = https://github.com/C-C-Minetest-Server/logging
+[submodule "unicode_text"]
+	path = unicode_text
+	url = https://git.minetest.land/erle/unicode_text
+[submodule "tga_encoder"]
+	path = tga_encoder
+	url = https://git.minetest.land/erle/tga_encoder
+[submodule "linetrack"]
+	path = linetrack
+	url = https://github.com/C-C-Minetest-Server/linetrack
+[submodule "basic_trains"]
+	path = basic_trains
+	url = http://git.bananach.space/basic_trains.git/
+[submodule "trainpack/disco_trains"]
+	path = trainpack/disco_trains
+	url = https://gitlab.com/tunnelers-abyss/legacy-repositories/disco_trains
+[submodule "trainpack/JR_E231series_modpack"]
+	path = trainpack/JR_E231series_modpack
+	url = https://github.com/h-v-smacker/JR_E231series_modpack/
+[submodule "trainpack/doxy_mini_tram"]
+	path = trainpack/doxy_mini_tram
+	url = https://invent.kde.org/davidhurka/doxy_mini_tram
+[submodule "trainpack/advtrains_freight_train"]
+	path = trainpack/advtrains_freight_train
+	url = https://codeberg.org/advtrains_supplemental/advtrains_freight_train
+[submodule "trainpack/advtrains_train_jpntlr600"]
+	path = trainpack/advtrains_train_jpntlr600
+	url = https://codeberg.org/advtrains_supplemental/advtrains_train_jpntlr600
+[submodule "advtrains_livery_tools"]
+	path = advtrains_livery_tools
+	url = https://github.com/Marnack/advtrains_livery_tools
+[submodule "trainpack/advtrains_horntrack"]
+	path = trainpack/advtrains_horntrack
+	url = https://codeberg.org/SilverSandstone/advtrains_horntrack
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters
+[submodule "printer"]
+	path = printer
+	url = https://cheapiesystems.com/git/printer
+[submodule "scifi_nodes"]
+	path = scifi_nodes
+	url = https://github.com/D00Med/scifi_nodes
