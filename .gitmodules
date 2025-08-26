@@ -271,3 +271,6 @@
 [submodule "scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes
+[submodule "server_utils/reboot_warner"]
+	path = server_utils/reboot_warner
+	url = https://github.com/mt-mods/reboot_warner
