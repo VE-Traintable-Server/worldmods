@@ -274,3 +274,6 @@
 [submodule "server_utils/reboot_warner"]
 	path = server_utils/reboot_warner
 	url = https://github.com/mt-mods/reboot_warner
+[submodule "notice"]
+	path = notice
+	url = https://github.com/BlockCityCreative/notice
