@@ -1,3 +1,4 @@
+if true then return end
 ju75={}
 ju75.gravity = tonumber(minetest.settings:get("movement_gravity")) or 9.8
 ju75.wing_angle_of_attack = 0.8
