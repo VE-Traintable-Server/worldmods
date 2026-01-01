@@ -274,3 +274,6 @@
 [submodule "notice"]
 	path = notice
 	url = https://github.com/BlockCityCreative/notice
+[submodule "techpack_stairway"]
+	path = techpack_stairway
+	url = https://github.com/joe7575/techpack_stairway
