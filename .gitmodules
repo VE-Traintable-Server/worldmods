@@ -280,3 +280,6 @@
 [submodule "techpack_stairway"]
 	path = techpack_stairway
 	url = https://github.com/joe7575/techpack_stairway
+[submodule "advtrains_platform"]
+	path = advtrains_platform
+	url = https://github.com/W3RQ01/advtrains_platform
