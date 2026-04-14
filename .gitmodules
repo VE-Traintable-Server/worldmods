@@ -292,3 +292,9 @@
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
+[submodule "pride_flags"]
+	path = pride_flags
+	url = https://codeberg.org/Wuzzy/pride_flags
+[submodule "otherkin_flags"]
+	path = otherkin_flags
+	url = https://codeberg.org/TPH/otherkin_flags
