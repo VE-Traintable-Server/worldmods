@@ -298,3 +298,6 @@
 [submodule "otherkin_flags"]
 	path = otherkin_flags
 	url = https://codeberg.org/TPH/otherkin_flags
+[submodule "owires"]
+	path = owires
+	url = https://github.com/Matyas-Pilz/owires
