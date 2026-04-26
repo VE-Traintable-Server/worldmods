@@ -301,3 +301,6 @@
 [submodule "owires"]
 	path = owires
 	url = https://github.com/Matyas-Pilz/owires
+[submodule "sim_trains"]
+	path = sim_trains
+	url = https://codeberg.org/Nazalassa/sim_trains.git
