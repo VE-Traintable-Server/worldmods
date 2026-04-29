@@ -286,9 +286,6 @@
 [submodule "scifi_nodes"]
 	path = scifi_nodes
 	url = https://github.com/D00Med/scifi_nodes
-[submodule "ma_pops_furniture"]
-	path = ma_pops_furniture
-	url = https://github.com/Gerold55/ma_pops_furniture
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
