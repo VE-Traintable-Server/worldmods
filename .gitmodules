@@ -301,3 +301,6 @@
 [submodule "sim_trains"]
 	path = sim_trains
 	url = https://codeberg.org/Nazalassa/sim_trains.git
+[submodule "vps_blocker"]
+	path = vps_blocker
+	url = https://github.com/Lejo1/vps_blocker
