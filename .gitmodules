@@ -307,3 +307,9 @@
 [submodule "minetest-snippets"]
 	path = minetest-snippets
 	url = https://gitlab.com/luk3yx/minetest-snippets
+[submodule "mooncontroller_convert"]
+	path = mooncontroller_convert
+	url = https://cheapiesystems.com/git/mooncontroller_convert/
+[submodule "mooncontroller"]
+	path = mooncontroller
+	url = https://github.com/mt-mods/mooncontroller
