@@ -304,3 +304,6 @@
 [submodule "vps_blocker"]
 	path = vps_blocker
 	url = https://github.com/Lejo1/vps_blocker
+[submodule "minetest-snippets"]
+	path = minetest-snippets
+	url = https://gitlab.com/luk3yx/minetest-snippets
